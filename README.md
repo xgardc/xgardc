@@ -7,4 +7,4 @@ Kim bu xgard?
 Genel olarak bilindiği gibi ben xgard. Yazılım ile uğraşan bir yazılımcıyım. Boş zamanlarımda müzik üretmeyi severim.
 
 Bağlantılar;
-[Discord](https://discord.com/users/789173991171817524) | [İnstagram](https://www.instagram.com/xbarisc/)
+[Discord](https://discord.com/users/789173991171817524) | [Instagram](https://www.instagram.com/xbarisc/)
