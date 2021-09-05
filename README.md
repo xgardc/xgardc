@@ -7,4 +7,6 @@
 Bağlantılar;
 [Discord](https://discord.com/users/789173991171817524) | [Instagram](https://www.instagram.com/xbarisc/)
 
-<code>const baris = 123</code>
+```js
+const baris = 123
+```
