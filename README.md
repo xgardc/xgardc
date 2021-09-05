@@ -1,6 +1,6 @@
 <h2>Herkese merhabalar ben xgard! <img src="https://media.giphy.com/media/Q7LHmoFwVP6Yc1swZs/giphy.gif" height="20px"></h2>
 
-<img width="50%" src="https://github-readme-stats.vercel.app/api?username=xgardc&show_icons=true&hide_title=true&theme=merko">
+<img src="https://github-readme-stats.vercel.app/api?username=xgardc&show_icons=true&hide_title=true&theme=merko" style="witdh: 50%; margin: auto;">
 
 Kod yazıyom. Arada bi müzik yapıyom.
 
