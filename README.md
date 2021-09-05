@@ -1,4 +1,4 @@
-<h2>Herkese merhabalar ben xgard! <img src="https://media.giphy.com/media/Q7LHmoFwVP6Yc1swZs/giphy.gif" height="100%"></h2>
+<h2>Herkese merhabalar ben xgard! <img src="https://media.giphy.com/media/Q7LHmoFwVP6Yc1swZs/giphy.gif" height="50%"></h2>
 
 <img src="https://github-readme-stats.vercel.app/api?username=xgardc&show_icons=true&hide_title=true&theme=merko" witdh: "50%">
 
