@@ -2,8 +2,6 @@
 
 <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=xgardc&show_icons=true&hide_title=true&theme=merko">
 
-Kim bu xgard?
-
 <!-- Genel olarak bilindiği gibi ben xgard. Node JS ile uğraşan bir yazılımcıyım. Boş zamanlarımda müzik üretmeyi severim. -->
 
 Bağlantılar;
