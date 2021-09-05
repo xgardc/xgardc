@@ -1,7 +1,3 @@
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=xgardc&show_icons=true&hide_title=true&theme=merko" witdh="50%" >
-</p>
-
 ```js
 class Human {
   constructor({name,lastName,age,job,height,weight,sex,socialMedia}){
@@ -32,3 +28,5 @@ const props = {
 
 const xgard = new Human(props)
 ```
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=xgardc&show_icons=true&hide_title=true&theme=merko" witdh="100%" ></p>
