@@ -1,5 +1,3 @@
-<h2>Herkese merhabalar ben xgard! <img src="https://media.giphy.com/media/Q7LHmoFwVP6Yc1swZs/giphy.gif" height="20"></h2>
-
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=xgardc&show_icons=true&hide_title=true&theme=merko" witdh="50%" >
 </p>
