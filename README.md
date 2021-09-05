@@ -36,6 +36,4 @@ const props = {
 }
 
 const xgard = new Human(props)
-
-console.log(xgard)
 ```
