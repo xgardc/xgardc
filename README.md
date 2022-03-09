@@ -29,6 +29,6 @@ const props = {
 const xgard = new Human(props);
 ```
 
-<p align="right"><img src="https://github-readme-stats.vercel.app/api?username=xgardc&show_icons=true&hide_title=true&theme=merko" witdh="100%" ></p>
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/789173991171817524?theme=dark&bg=18191c&animated=false&hideDiscrim=true&borderRadius=30px)](https://discord.com/users/464429065340977152)
 
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/464429065340977152?theme=dark&bg=18191c&animated=false&hideDiscrim=true&borderRadius=30px)](https://discord.com/users/464429065340977152)
+<p align="right"><img src="https://github-readme-stats.vercel.app/api?username=xgardc&show_icons=true&hide_title=true&theme=merko" witdh="100%" ></p>
