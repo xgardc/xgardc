@@ -17,8 +17,8 @@ const props = {
   lastName: "Çelik",
   age: "16",
   job: "Student",
-  height: "1.75",
-  weight: "78",
+  height: "1.81",
+  weight: "91",
   gender: "Male",
   socialMedia: {
     discord: "https://discord.com/users/789173991171817524",
