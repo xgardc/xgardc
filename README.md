@@ -15,10 +15,10 @@ class Human {
 const props = {
   name: "Barış",
   lastName: "Çelik",
-  age: "16",
+  age: "18",
   job: "Student",
   height: "1.81",
-  weight: "91",
+  weight: "79",
   gender: "Male",
   socialMedia: {
     discord: "https://discord.com/users/789173991171817524",
